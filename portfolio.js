@@ -15,7 +15,7 @@
         window.location = "https://dustin210.github.io/Project-1/"
        });
 
-       $("#project 2").on("click", function(){
+       $("#project-2").on("click", function(){
         window.location = "https://serene-mesa-01559.herokuapp.com/"
        });
 
